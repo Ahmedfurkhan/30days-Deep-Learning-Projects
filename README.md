@@ -1,2 +1,31 @@
 # Deep-Learning-Projects
- 
+- Day-1 : Introduction to Data Science & Studies
+- Day-2 : Computer Vision
+- Day-3 : Neurons and Perceptron
+- Day-4 : Activation Function
+- Day-5 : Gradient Descent
+- Day-6 : Gradient Descent
+- Day-7 : Backpropogation
+- Day-8 : Diabetes Detectionusing CNN
+- Day-9 : Optimizer
+- Day-10 : Batch Normalization
+- Day-11 : Hyperparameter Turing
+- Day-12 : InterPretability
+- Day-13 : Deep Neural Network
+- Day-14 : Convolutional Neural Network and Its Layers
+- Day-15 : CNN Architecture
+- Day-16 : Different framework on Deep Learning
+- Day-17 : Object Recognition using Pre Trained Models
+- Day-18 : Image Classification Using Convlutional Neural Network from Scratch using TensorFlow & Keras
+- Day-19 : Custom Image Classification Using Transfer Learning
+- Day-20 : YOLO Object Recognition
+- Day-21 : Image Segmentation
+- Day-22 : Object Recognition using Mxnet
+- Day-23 : Object Recognitionusing Pytorch
+- Day-24 : Socail Distance Monitoring 
+- Day-25 : Face Mask Detector
+- Day-26 : Introduction to RNN and LsTM
+- Day-27 : Project using RNN and LsTM
+- Day-28 : Introduction to CUDA Toolkit cuDNN for  Deep Learning
+- Day-29 : Getting started with the intel Movidius Neural Compute Stick
+- Day-30 : Nvidia

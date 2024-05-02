@@ -1,5 +1,5 @@
 # Deep-Learning-Projects
-- Day-1 : Introduction to Data Science & Studies
+- Day-1 : [Introduction to Data Science & Studies]()
 - Day-2 : Computer Vision
 - Day-3 : Neurons and Perceptron
 - Day-4 : Activation Function

@@ -1,14 +1,14 @@
 # Deep-Learning-Projects
 - Day-1 : [Introduction to Data Science & Studies](https://github.com/Ahmedfurkhan/30days-Deep-Learning-Projects/tree/main/1.%20Introduction%20to%20Data%20Science%20%26%20Deep%20Learning)
-- Day-2 : Computer Vision
-- Day-3 : Neurons and Perceptron
-- Day-4 : Activation Function
-- Day-5 : Gradient Descent
-- Day-6 : Gradient Descent
-- Day-7 : Backpropogation
-- Day-8 : Diabetes Detectionusing CNN
-- Day-9 : Optimizer
-- Day-10 : Batch Normalization
+- Day-2 : [Computer Vision](https://github.com/Ahmedfurkhan/30days-Deep-Learning-Projects/tree/main/2.%20Computer%20Vision)
+- Day-3 : [Neurons and Perceptron](https://github.com/Ahmedfurkhan/30days-Deep-Learning-Projects/tree/main/3.%20Neurons%20and%20Perceptron)
+- Day-4 : [Activation Function](https://github.com/Ahmedfurkhan/30days-Deep-Learning-Projects/tree/main/4.%20Activation%20Function)
+- Day-5 : [Gradient Descent](https://github.com/Ahmedfurkhan/30days-Deep-Learning-Projects/tree/main/5.%20Gradient%20Descent)
+- Day-6 : [Gradient Descent](https://github.com/Ahmedfurkhan/30days-Deep-Learning-Projects/tree/main/6.%20Gradient%20Descent)
+- Day-7 : [Backpropogation](https://github.com/Ahmedfurkhan/30days-Deep-Learning-Projects/tree/main/7.%20Backpropogation)
+- Day-8 : [Diabetes Detectionusing CNN](https://github.com/Ahmedfurkhan/30days-Deep-Learning-Projects/tree/main/8.%20Diabetes%20Detectionusing%20CNN)
+- Day-9 : [Optimizer](https://github.com/Ahmedfurkhan/30days-Deep-Learning-Projects/tree/main/9.%20Optimizer)
+- Day-10 : [Batch Normalization](https://github.com/Ahmedfurkhan/30days-Deep-Learning-Projects/tree/main/10.%20Batch%20Normalization)
 - Day-11 : Hyperparameter Turing
 - Day-12 : InterPretability
 - Day-13 : Deep Neural Network

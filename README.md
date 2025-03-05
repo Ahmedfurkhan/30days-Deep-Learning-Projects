@@ -1,5 +1,5 @@
 # Deep-Learning-Projects
-- Day-1 : [Introduction to Data Science & Studies]()
+- Day-1 : [Introduction to Data Science & Studies](https://github.com/Ahmedfurkhan/30days-Deep-Learning-Projects/tree/main/1.%20Introduction%20to%20Data%20Science%20%26%20Deep%20Learning)
 - Day-2 : Computer Vision
 - Day-3 : Neurons and Perceptron
 - Day-4 : Activation Function
